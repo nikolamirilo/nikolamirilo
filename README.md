@@ -1,6 +1,6 @@
 ### Hi there, I'm Nikola!
 
-<p>I enrolled at the Faculty of Organizational Sciences in 2019,
+<p>I am student at the Faculty of Organizational Sciences,
 majoring in Operational Management, department of Management and Organization. I am occupied with IT
 development, management and organization, and training. In the future, I want to combine IT and
 management through one job like Project Manager or IT Manager. I am always seeking for more knowledge, experience, and skills,
@@ -11,7 +11,7 @@ beacuse I think that the key tool for success is constant effort, and determinat
 - <i>
   Any person with an average or little below intelligence can achieve whatever he wants only if he is
   ready to dedicate himself to it to the maximum.</i>
-- <i>Keep focus, embrace your vulnerabilities, and work hard</i>
+- <i>Keep focus and work hard on your vulnerabilities</i>
 
 ### Interests:
 
