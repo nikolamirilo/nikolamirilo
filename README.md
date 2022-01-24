@@ -1,6 +1,6 @@
 ### Hi there, I'm Nikola!
 
-<p>Hi, my name is Nikola, I am 21 years old. I enrolled at the Faculty of Organizational Sciences,
+<p>I enrolled at the Faculty of Organizational Sciences in 2019,
 majoring in Operational Management, department of Management and Organization. I am occupied with IT
 development, management and organization, and training. In the future, I want to combine IT and
 management through one job like Project Manager or IT Manager. I am always seeking for more knowledge, experience, and skills,
