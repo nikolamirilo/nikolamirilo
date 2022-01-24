@@ -13,8 +13,6 @@ beacuse I think that the key tool for success is constant effort, and determinat
   ready to dedicate himself to it to the maximum.</i>
 - <i>Keep focus, embrace your vulnerabilities, and work hard</i>
 
-</br>
-
 ### Interests:
 
 - Programming
