@@ -45,8 +45,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <img align="left" alt="Node.js" height="30vh"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
-/> <img align="left" alt="Sanity" height="30vh"
-src="https://spectrum.imgix.net/communities/3dd95226-4475-4f9a-8324-a4ac8ffdc4d5/B1Yr0X-oG-sanity_logo.png?w=256&h=256&dpr=2&auto=compress&expires=1613174400000&ixlib=js-1.3.0&s=032fe12fded6453d07541777482b0c73"
 /> <img align="left" alt="MongoDB" height="30vh"
 src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png"
 />
