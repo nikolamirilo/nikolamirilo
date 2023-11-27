@@ -72,5 +72,5 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [website]: https://nikolamirilo.netlify.app/
 [twitter]: https://twitter.com/nikola5765
 [facebook]: https://www.facebook.com/nikola.mirilo.5/
-[instagram]: https://instagram.com/nikola.mirilo
+[instagram]: https://www.instagram.com/mirilo.nikola
 [linkedin]: https://www.linkedin.com/in/nikola-mirilo/
