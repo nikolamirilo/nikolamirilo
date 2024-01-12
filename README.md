@@ -1,9 +1,7 @@
 ### Hi there, I'm Nikola!
 
-<p>I am student at the Faculty of Organizational Sciences,
-majoring in Operational Management, department of Management and Organization. I am occupied with IT
-development, management and organization, and training. In the future, I want to combine IT and
-management through one job like Project Manager or IT Manager. I am always seeking for more knowledge, experience, and skills,
+<p>Bachelor degree in Operational Management at the Faculty of Organizational Sciences. I am occupied with IT
+development, management and organization, and training. I am always seeking for more knowledge, experience, and skills,
 beacuse I think that the key tool for success is constant effort, and determination.</p>
 
 ### Favourite quotes
