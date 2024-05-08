@@ -4,7 +4,7 @@
 development, management and organization, and training. I am always seeking for more knowledge, experience, and skills,
 beacuse I think that the key tool for success is constant effort, and determination.</p>
 
-### Favourite quotes
+### Favourite quote
 <i>
   Any person with an average or little below intelligence can achieve whatever he wants only if he is
   ready to dedicate himself to it to the maximum.</i>
