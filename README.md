@@ -11,6 +11,9 @@ beacuse I think that the key tool for success is constant effort, and determinat
 
 ### Interests:
 
+- Project Management
+- People Development
+- Process automation and optimization
 - Programming
 - Web development
 - Hacking
@@ -18,7 +21,7 @@ beacuse I think that the key tool for success is constant effort, and determinat
 - Blockchain
 - Management and organization
 - Optimization
-- Lean production
+- Lean methodologies
 - Scrum
 
 ### Languages and Tools:
