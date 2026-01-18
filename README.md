@@ -5,9 +5,9 @@ I'm a Full Stack Web Developer
 ------------------------
 
 * 🌍  I'm based in Belgrade, Serbia
-* ✉️  You can contact me at [nikolamirilo@gmail.com](mailto:nikolamirilo@gmail.com)
 * 🧠  I'm currently focused on building RAG systems and Agents
 * 🤝  I'm open to collaborating on Interesting projects with modern technologies (AI, Blockchain, etc.)
+* ✉️  You can contact me at [nikolamirilo@gmail.com](mailto:nikolamirilo@gmail.com)
 
 ### Skills
 
