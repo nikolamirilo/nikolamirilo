@@ -1,7 +1,7 @@
-Hi 👋 My name is Nikola
+Hi there, my name is Nikola
 =======================
 
-Full Stack Web Developer
+I'm a Full Stack Web Developer
 ------------------------
 
 * 🌍  I'm based in Belgrade, Serbia
