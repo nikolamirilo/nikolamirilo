@@ -45,7 +45,7 @@ I'm a Full Stack Web Developer
 
 #### Blockchain
 
-<p align="left"><a href="https://metamask.io/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></picture></a> <a href="https://docs.soliditylang.org/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solidity-colored.svg" width="36" height="36" alt="Solidity" /></picture></a></p>
+<p align="left"><a href="https://metamask.io/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></picture></a> <a href="https://docs.soliditylang.org/" target="_blank" rel="noreferrer"><picture><img src="https://www.iebschool.com/uploads/logo_herramienta/9e9e66cf28eeb5f0fb9a5d7d82b09a8127deea9d.png" width="36" height="36" alt="Solidity" /></picture></a></p>
 
 #### Design & Prototyping
 
